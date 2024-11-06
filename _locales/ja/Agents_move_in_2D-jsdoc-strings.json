@@ -1,0 +1,5 @@
+{
+    "agent.stepForward": "１ブロック進(すす)む",
+    "agent.turnL": "左(ひだり)を向(む)く",
+    "agent.turnR": "右(みぎ)を向(む)く"
+}

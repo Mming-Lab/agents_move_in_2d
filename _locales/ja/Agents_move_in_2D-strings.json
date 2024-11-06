@@ -1,0 +1,5 @@
+{
+    "agent.stepForward|block": "`2d.agent` １ブロック進(すす)む",
+    "agent.turnL|block": "`2d.agent` 左(ひだり)を向(む)く",
+    "agent.turnR|block": "`2d.agent` 右(みぎ)を向(む)く"
+}

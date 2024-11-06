@@ -8,7 +8,13 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "src/2d.ts",
+        "src/2d.jres",
+        "_locales/ja/Agents_move_in_2D-strings.json",
+        "_locales/ja/Agents_move_in_2D-jsdoc-strings.json",
+        "no_coding.md",
+        "_locales/ja/no_coding.md"
     ],
     "testFiles": [
         "test.ts"
@@ -19,5 +25,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "tsprj"
 }
